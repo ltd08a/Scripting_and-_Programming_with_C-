@@ -14,3 +14,11 @@ A project to migrate an existing student system to a new platform using C++ lang
 
 ### Requirements
 The program must contain 2 classes. It will maintain a current roster of students within a given course. This must real a list of 5 students and use function calls to manipulate data. While parsing the list of data, the program should create student objects. The entire student list will be stored in one array of students. Specific data-related output will be directed to the console.
+
+### Files
+student.h: Class definition for the 'Student' class
+roster.h: Class definition for the 'Roster' class
+degree.h: Enumeration definition for DegreeProgram
+student.cpp: Contains a default constructor, full constructor, accessor functions, mutator functions, print functions, and a destructor definition for the 'Student' objects
+roster.cpp: Contains a default constructor, full constructor, various functions, and a destructor definition for the 'Roster' objects
+main.cpp: Entry point for the program, displaying the functionality of the project
