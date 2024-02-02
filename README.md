@@ -22,4 +22,4 @@ degree.h: Enumeration definition for DegreeProgram
 student.cpp: Contains a default constructor, full constructor, accessor functions, mutator functions, print functions, and a destructor definition for the 'Student' objects  
 roster.cpp: Contains a default constructor, full constructor, various functions, and a destructor definition for the 'Roster' objects  
 main.cpp: Entry point for the program, displaying the functionality of the project  
-
+Screenshot.png: A screenshot of main.cpp running correctly  
