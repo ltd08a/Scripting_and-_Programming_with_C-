@@ -1,4 +1,4 @@
-# Scripting_and-_Programming_with_C++
+# Scripting_and_Programming_with_C++
 
 ### Project Description
 A project to migrate an existing student system to a new platform using C++ language. 
