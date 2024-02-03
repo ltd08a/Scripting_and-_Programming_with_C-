@@ -3,6 +3,9 @@
 ### Project Description
 A project to migrate an existing student system to a new platform using C++ language. 
 
+### Environment(s)
+Visual_Studio
+
 ### Competencies
 1. Introduction to Programming: Apply fundamental programming concepts in a specific programming environment.
 2. Variables and Data Types: Prepare code which declares, initializes, and assigns values to variables of appropriate types as part of the application development process.
