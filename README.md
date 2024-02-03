@@ -4,7 +4,12 @@
 A project to migrate an existing student system to a new platform using C++ language. 
 
 ### Environment(s)
+
 Visual_Studio
+
+### Language(s)
+
+C++
 
 ### Competencies
 1. Introduction to Programming: Apply fundamental programming concepts in a specific programming environment.
