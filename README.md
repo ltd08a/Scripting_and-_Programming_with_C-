@@ -11,6 +11,11 @@ Visual_Studio
 
 C++
 
+### Libraries and Packages
+
+iostream  
+string  
+
 ### Competencies
 1. Introduction to Programming: Apply fundamental programming concepts in a specific programming environment.
 2. Variables and Data Types: Prepare code which declares, initializes, and assigns values to variables of appropriate types as part of the application development process.
